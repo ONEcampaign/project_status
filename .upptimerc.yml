@@ -1,31 +1,61 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ONEcampaign # Your GitHub username
+repo: project_upptime # Your Github repository name
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Actionkit
+    url: https://act.one.org
+  - name: Jobs Now Africa
+    url: https://www.jobsnowafrica.org/
+  - name: ResourceSpace
+    url: https://photos.one.org
+  - name: Learning
+    url: https://learning.one.org
+  - name: Intranet
+    url: https://intranet.one.org
+  - name: ONE Against Poverty UK
+    url: https://www.oneagainstpoverty.org.uk
+  - name: ONE Global Canada
+    url: https://www.oneglobalcanada.com
+  - name: ONE
+    url: https://www.one.org
+  - name: ONE Africa
+    url: https://www.one.org/africa
+  - name: ONE International
+    url: https://www.one.org/international
+  - name: Accountability Music Awards
+    url: https://www.accountabilitymusicawards.org
+  - name: ONE US
+    url: https://www.one.org/us
+  - name: Rapidpro
+    url: https://one.wafl.chat
+  - name: Data
+    url: https://data.one.org
+  - name: Staging
+    url: https://staging.one.org/international
+  - name: Multisite Staging
+    url: https://new.one.org/international
+  - name: ONE Recruiter
+    url: https://recruiter.one.org/wp-login.php
+  - name: Action Tracker
+    url: https://actiontracker.one.org/ping/
+
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: status.one.org
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
+  logoUrl: https://www.one.org/wp-content/themes/one_2014/dist/images/ONE-logo-black.png
+  name: ONE Status
+  introTitle: "ONE.org status"
+  introMessage: This is the status page for ONE services and websites
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: ONE.org
+      href: https://one.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
