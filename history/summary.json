@@ -76,18 +76,20 @@
     "url": "https://intranet.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.one.org.ico",
     "slug": "intranet",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 313,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1476,
+    "timeDay": 4668,
+    "timeWeek": 1476,
+    "timeMonth": 1476,
+    "timeYear": 1476,
+    "dailyMinutesDown": {
+      "2023-06-22": 0
+    }
   },
   {
     "name": "ONE Against Poverty UK",
