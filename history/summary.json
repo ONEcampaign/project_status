@@ -321,9 +321,9 @@
     "url": "https://actiontracker.one.org/ping/",
     "icon": "https://icons.duckduckgo.com/ip3/actiontracker.one.org.ico",
     "slug": "action-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -332,6 +332,8 @@
     "timeWeek": 238,
     "timeMonth": 240,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   }
 ]
