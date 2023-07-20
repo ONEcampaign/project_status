@@ -321,7 +321,7 @@
     "url": "https://actiontracker.one.org/ping/",
     "icon": "https://icons.duckduckgo.com/ip3/actiontracker.one.org.ico",
     "slug": "action-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "99.30%",
     "uptimeWeek": "99.90%",
