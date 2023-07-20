@@ -321,19 +321,19 @@
     "url": "https://actiontracker.one.org/ping/",
     "icon": "https://icons.duckduckgo.com/ip3/actiontracker.one.org.ico",
     "slug": "action-tracker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 229,
-    "timeDay": 82,
-    "timeWeek": 238,
-    "timeMonth": 240,
+    "timeDay": 154,
+    "timeWeek": 237,
+    "timeMonth": 239,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-07-20": 0
+      "2023-07-20": 10
     }
   }
 ]
