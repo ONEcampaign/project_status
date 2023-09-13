@@ -139,19 +139,19 @@
     "url": "https://www.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "82.68%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.80%",
-    "time": 305,
-    "timeDay": 205,
-    "timeWeek": 293,
-    "timeMonth": 299,
-    "timeYear": 305,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "79.05%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.76%",
+    "time": 303,
+    "timeDay": 150,
+    "timeWeek": 265,
+    "timeMonth": 291,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-09-13": 249
+      "2023-09-13": 302
     }
   },
   {
@@ -177,19 +177,19 @@
     "url": "https://www.one.org/international",
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one-international",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "82.69%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.80%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "79.05%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.76%",
     "time": 163,
-    "timeDay": 187,
+    "timeDay": 182,
     "timeWeek": 166,
     "timeMonth": 163,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-09-13": 249
+      "2023-09-13": 302
     }
   },
   {
