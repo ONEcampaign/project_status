@@ -22,8 +22,8 @@ sites:
     url: https://www.one.org
   - name: ONE Africa
     url: https://www.one.org/africa
-  - name: ONE International
-    url: https://www.one.org/international
+  - name: ONE Global
+    url: https://www.one.org/
   - name: Accountability Music Awards
     url: https://www.accountabilitymusicawards.org
   - name: ONE US
@@ -33,9 +33,7 @@ sites:
   - name: Data
     url: https://data.one.org
   - name: Staging
-    url: https://staging.one.org/international
-  - name: Multisite Staging
-    url: https://new.one.org/international
+    url: https://staging.one.org/
   - name: ONE Recruiter
     url: https://recruiter.one.org/wp-login.php
   - name: Action Tracker
