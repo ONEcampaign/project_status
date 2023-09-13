@@ -139,19 +139,19 @@
     "url": "https://www.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "68.77%",
-    "uptimeWeek": "95.54%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.64%",
-    "time": 290,
-    "timeDay": 93,
-    "timeWeek": 192,
-    "timeMonth": 260,
-    "timeYear": 290,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "55.56%",
+    "uptimeWeek": "93.65%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "99.49%",
+    "time": 287,
+    "timeDay": 89,
+    "timeWeek": 183,
+    "timeMonth": 255,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-09-13": 450
+      "2023-09-13": 641
     }
   },
   {
@@ -171,26 +171,6 @@
     "timeMonth": 170,
     "timeYear": 190,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ONE Global",
-    "url": "https://www.one.org/",
-    "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
-    "slug": "one-global",
-    "status": "down",
-    "uptime": "28.43%",
-    "uptimeDay": "28.43%",
-    "uptimeWeek": "28.43%",
-    "uptimeMonth": "28.43%",
-    "uptimeYear": "28.43%",
-    "time": 41,
-    "timeDay": 41,
-    "timeWeek": 41,
-    "timeMonth": 41,
-    "timeYear": 41,
-    "dailyMinutesDown": {
-      "2023-09-13": 46
-    }
   },
   {
     "name": "Accountability Music Awards",
@@ -290,11 +270,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/recruiter.one.org.ico",
     "slug": "one-recruiter",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 359,
     "timeDay": 140,
     "timeWeek": 1176,
