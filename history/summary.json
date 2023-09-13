@@ -61,12 +61,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 1072,
     "timeDay": 345,
-    "timeWeek": 308,
+    "timeWeek": 310,
     "timeMonth": 322,
     "timeYear": 1072,
     "dailyMinutesDown": {
@@ -139,9 +139,9 @@
     "url": "https://www.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,7 +150,9 @@
     "timeWeek": 329,
     "timeMonth": 307,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "ONE Africa",
@@ -175,18 +177,20 @@
     "url": "https://www.one.org/international",
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one-international",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 108,
-    "timeWeek": 148,
-    "timeMonth": 159,
-    "timeYear": 161,
-    "dailyMinutesDown": {}
+    "time": 163,
+    "timeDay": 230,
+    "timeWeek": 174,
+    "timeMonth": 165,
+    "timeYear": 163,
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "Accountability Music Awards",
@@ -305,12 +309,12 @@
     "slug": "one-recruiter",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 359,
-    "timeDay": 3133,
+    "timeDay": 140,
     "timeWeek": 1176,
     "timeMonth": 451,
     "timeYear": 359,
