@@ -139,12 +139,12 @@
     "url": "https://www.one.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one",
-    "status": "up",
-    "uptime": "94.51%",
-    "uptimeDay": "12.36%",
-    "uptimeWeek": "26.97%",
-    "uptimeMonth": "83.19%",
-    "uptimeYear": "94.51%",
+    "status": "down",
+    "uptime": "94.59%",
+    "uptimeDay": "13.70%",
+    "uptimeWeek": "28.03%",
+    "uptimeMonth": "83.44%",
+    "uptimeYear": "94.59%",
     "time": 155,
     "timeDay": 47,
     "timeWeek": 47,
@@ -157,7 +157,7 @@
       "2023-09-17": 1255,
       "2023-09-16": 1270,
       "2023-09-15": 1275,
-      "2023-09-14": 285
+      "2023-09-14": 177
     }
   },
   {
