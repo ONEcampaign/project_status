@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.one.org.ico",
     "slug": "resource-space",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "94.85%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.94%",
     "time": 839,
     "timeDay": 779,
     "timeWeek": 771,
     "timeMonth": 845,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-09-23": 74
+      "2023-09-23": 84
     }
   },
   {
@@ -141,15 +141,15 @@
     "url": "https://www.one.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one",
-    "status": "up",
-    "uptime": "94.00%",
-    "uptimeDay": "6.92%",
-    "uptimeWeek": "17.63%",
-    "uptimeMonth": "81.05%",
-    "uptimeYear": "94.00%",
+    "status": "down",
+    "uptime": "94.25%",
+    "uptimeDay": "7.56%",
+    "uptimeWeek": "21.06%",
+    "uptimeMonth": "81.83%",
+    "uptimeYear": "94.25%",
     "time": 140,
     "timeDay": 43,
-    "timeWeek": 47,
+    "timeWeek": 48,
     "timeMonth": 77,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -159,7 +159,7 @@
       "2023-09-20": 1211,
       "2023-09-19": 1319,
       "2023-09-18": 1131,
-      "2023-09-17": 1077
+      "2023-09-17": 731
     }
   },
   {
