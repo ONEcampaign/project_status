@@ -40,9 +40,9 @@
     "url": "https://photos.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/photos.one.org.ico",
     "slug": "resource-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 771,
     "timeMonth": 845,
     "timeYear": 839,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-23": 0
+    }
   },
   {
     "name": "Learning",
@@ -140,18 +142,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one",
     "status": "down",
-    "uptime": "94.09%",
-    "uptimeDay": "8.37%",
-    "uptimeWeek": "18.95%",
-    "uptimeMonth": "81.35%",
-    "uptimeYear": "94.09%",
+    "uptime": "94.05%",
+    "uptimeDay": "7.63%",
+    "uptimeWeek": "18.36%",
+    "uptimeMonth": "81.21%",
+    "uptimeYear": "94.05%",
     "time": 140,
     "timeDay": 44,
     "timeWeek": 48,
     "timeMonth": 77,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2023-09-23": 755,
+      "2023-09-23": 814,
       "2023-09-22": 1336,
       "2023-09-21": 1348,
       "2023-09-20": 1211,
