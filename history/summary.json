@@ -42,7 +42,7 @@
     "slug": "resource-space",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.37%",
+    "uptimeDay": "98.18%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
@@ -141,12 +141,12 @@
     "url": "https://www.one.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one",
-    "status": "up",
-    "uptime": "93.65%",
-    "uptimeDay": "5.42%",
-    "uptimeWeek": "11.91%",
-    "uptimeMonth": "79.73%",
-    "uptimeYear": "93.65%",
+    "status": "down",
+    "uptime": "93.76%",
+    "uptimeDay": "6.17%",
+    "uptimeWeek": "13.45%",
+    "uptimeMonth": "80.08%",
+    "uptimeYear": "93.76%",
     "time": 136,
     "timeDay": 50,
     "timeWeek": 48,
@@ -160,7 +160,7 @@
       "2023-09-20": 1211,
       "2023-09-19": 1319,
       "2023-09-18": 1131,
-      "2023-09-17": 291
+      "2023-09-17": 135
     }
   },
   {
