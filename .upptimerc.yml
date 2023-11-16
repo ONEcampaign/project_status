@@ -31,6 +31,8 @@ sites:
     url: https://data.one.org
   - name: Data Commons
     url: https://datacommons.one.org
+     - name: Data Commons staging
+    url: https://datacommons.staging.one.org
   - name: Staging
     url: https://staging.one.org/
   - name: ONE Recruiter
