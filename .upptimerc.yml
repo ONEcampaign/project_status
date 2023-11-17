@@ -3,28 +3,22 @@ owner: ONEcampaign # Your GitHub username
 repo: project_status # Your Github repository name
 # Add your sites here
 sites:
+  - name: ONE
+    url: https://www.one.org/about/
+  - name: ONE US
+    url: https://www.one.org/us/
+  - name: Staging
+    url: https://staging.one.org/
   - name: Actionkit
     url: https://act.one.org
-  - name: Jobs Now Africa
-    url: https://www.jobsnowafrica.org/
-  - name: ResourceSpace
-    url: https://photos.one.org
-  - name: Learning
-    url: https://learning.one.org
-  - name: Intranet
-    url: https://intranet.one.org
   - name: ONE Against Poverty UK
     url: https://www.oneagainstpoverty.org.uk
   - name: ONE Global Canada
     url: https://www.oneglobalcanada.com
-  - name: ONE
-    url: https://www.one.org/about/
-  - name: ONE Africa
-    url: https://www.one.org/africa/
-  - name: Accountability Music Awards
-    url: https://www.accountabilitymusicawards.org
-  - name: ONE US
-    url: https://www.one.org/us/
+  - name: ResourceSpace
+    url: https://photos.one.org
+  - name: Intranet
+    url: https://intranet.one.org
   - name: Rapidpro
     url: https://one.wafl.chat
   - name: Data
@@ -33,12 +27,14 @@ sites:
     url: https://datacommons.one.org
   - name: Data Commons staging
     url: https://datacommons.staging.one.org
-  - name: Staging
-    url: https://staging.one.org/
   - name: ONE Recruiter
     url: https://recruiter.one.org/wp-login.php
   - name: Action Tracker
     url: https://actiontracker.one.org/ping/
+  - name: Jobs Now Africa
+    url: https://www.jobsnowafrica.org/
+  - name: Accountability Music Awards
+    url: https://www.accountabilitymusicawards.org
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.one.org
