@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.one.org.ico",
     "slug": "one",
     "status": "up",
-    "uptime": "95.17%",
+    "uptime": "95.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.17%",
+    "uptimeYear": "95.20%",
     "time": 86,
     "timeDay": 264,
     "timeWeek": 210,
@@ -204,10 +204,10 @@
     "url": "https://datacommons.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/datacommons.one.org.ico",
     "slug": "data-commons",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
@@ -215,7 +215,9 @@
     "timeWeek": 236,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-29": 1
+    }
   },
   {
     "name": "Data Commons staging",
