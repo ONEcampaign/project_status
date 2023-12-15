@@ -107,19 +107,19 @@
     "url": "https://www.oneglobalcanada.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.oneglobalcanada.com.ico",
     "slug": "one-global-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 366,
-    "timeWeek": 272,
-    "timeMonth": 258,
-    "timeYear": 247,
+    "time": 249,
+    "timeDay": 406,
+    "timeWeek": 295,
+    "timeMonth": 265,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 10
     }
   },
   {
