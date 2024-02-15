@@ -312,19 +312,19 @@
     "url": "https://www.accountabilitymusicawards.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.accountabilitymusicawards.org.ico",
     "slug": "accountability-music-awards",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 215,
-    "timeWeek": 226,
-    "timeMonth": 204,
+    "timeDay": 223,
+    "timeWeek": 227,
+    "timeMonth": 205,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-02-15": 0
+      "2024-02-15": 8
     }
   }
 ]
