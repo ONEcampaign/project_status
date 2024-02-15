@@ -227,11 +227,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/datacommons.staging.one.org.ico",
     "slug": "data-commons-staging",
     "status": "up",
-    "uptime": "94.31%",
+    "uptime": "94.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.12%",
-    "uptimeYear": "94.31%",
+    "uptimeYear": "94.34%",
     "time": 190,
     "timeDay": 154,
     "timeWeek": 170,
@@ -312,17 +312,19 @@
     "url": "https://www.accountabilitymusicawards.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.accountabilitymusicawards.org.ico",
     "slug": "accountability-music-awards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 223,
-    "timeWeek": 228,
+    "timeDay": 215,
+    "timeWeek": 226,
     "timeMonth": 204,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-15": 0
+    }
   }
 ]
