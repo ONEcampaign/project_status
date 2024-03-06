@@ -31,8 +31,6 @@ sites:
     url: https://actiontracker.one.org/ping/
   - name: Jobs Now Africa
     url: https://www.jobsnowafrica.org/
-  - name: Accountability Music Awards
-    url: https://www.accountabilitymusicawards.org
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.one.org
