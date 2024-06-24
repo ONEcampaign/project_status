@@ -128,9 +128,9 @@
     "url": "https://photos.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/photos.one.org.ico",
     "slug": "resource-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -140,6 +140,7 @@
     "timeMonth": 877,
     "timeYear": 854,
     "dailyMinutesDown": {
+      "2024-06-24": 0,
       "2023-09-23": 121
     }
   },
